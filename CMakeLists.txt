@@ -3,4 +3,6 @@ project(Functions_Challenge_1)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(Functions_Challenge_1 main.cpp)
+add_executable(Functions_Challenge_1 main.cpp
+        userDefinedFunctions.cpp
+        userDefinedFunctions.h)
