@@ -1,7 +1,7 @@
 /*
 Author: Salomon Lopez
  Date: 3/17/26
- Purpose: User Define
+ Purpose: User Defined Functions
  */
 
 #include <iostream>
